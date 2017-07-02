@@ -1,3 +1,12 @@
 <resources>
     <string name="app_name">Apprende</string>
+    <string name="action_settings">Opciones</string>
+    <string name="name">Nombre</string>
+    <string name="button_login">Entrar</string>
+
+    /*Títulos*/
+    <string name="lectoescritura">LECTOESCRITURA</string>
+    <string name="cuentos">CUENTOS</string>
+    <string name="numeros">NÚMEROS</string>
+    <string name="letras">LETRAS</string>
 </resources>

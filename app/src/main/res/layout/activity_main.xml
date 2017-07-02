@@ -1,18 +1,56 @@
 <?xml version="1.0" encoding="utf-8"?>
-<android.support.constraint.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:app="http://schemas.android.com/apk/res-auto"
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    tools:context="inesvico.pdm.apprende.MainActivity">
+    tools:context="inesvico.pdm.apprende.MainActivity"
+    android:orientation="vertical">
+
+    <include layout="@layout/cabecera_principal"/>
 
     <TextView
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
-        android:text="Hello World!"
-        app:layout_constraintBottom_toBottomOf="parent"
-        app:layout_constraintLeft_toLeftOf="parent"
-        app:layout_constraintRight_toRightOf="parent"
-        app:layout_constraintTop_toTopOf="parent" />
+        android:id="@+id/lectoescritura"
+        android:layout_width="match_parent"
+        android:layout_height="114dp"
+        android:background="@color/colorVerde"
+        android:gravity="center"
+        android:text="@string/lectoescritura"
+        android:layout_alignParentBottom="true"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentStart="true" />
 
-</android.support.constraint.ConstraintLayout>
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="112dp"
+        android:text="@string/cuentos"
+        android:gravity="center"
+        android:background="@color/colorAmarillo"
+        android:id="@+id/cuentos"
+        android:layout_marginTop="60dp"
+        android:layout_alignParentTop="true"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentStart="true" />
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="112dp"
+        android:text="@string/numeros"
+        android:gravity="center"
+        android:id="@+id/numeros"
+        android:background="@color/colorAzul"
+        android:layout_below="@+id/cuentos"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentStart="true" />
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="112dp"
+        android:text="@string/letras"
+        android:gravity="center"
+        android:background="@color/colorNaranja"
+        android:id="@+id/letras"
+        android:layout_above="@+id/lectoescritura"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentStart="true" />
+
+
+</RelativeLayout>

@@ -3,57 +3,75 @@
 
     <item
         is-multidex="true"
-        jar="C:\Users\Inés\.android\build-cache\9f271a712322899d08e8db80da55796c398386e5\output\jars\classes.jar"
+        jar="D:\Apprende\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
+        <dex dex="D:\Apprende\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_88b1af210b67431e34bdec9ef6d9d6146d5fc3f5\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Inés\.android\build-cache\79f8f76dbfbd6df2aa0544ec72335281def243b0\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d6a04527c17597019dad82777c5094a3d60d1c33">
+        <dex dex="D:\Apprende\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_5d838ed204e9033fde7aba24c55a603b3cd81a75\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Inés\.android\build-cache\ce453a2a8f129e638a56edf3beef6ab09380b750\output\jars\classes.jar"
         jumboMode="true"
         optimize="true"
         revision="25.0.2"
         sha1="70f23cb87278f89aa51e6f57e8f0fd5266572d95">
-        <dex dex="D:\Apprende\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_b0132b481e44a3f037bb44629a2ca0af738c2fd7\classes.dex" />
+        <dex dex="D:\Apprende\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_fd59b90d1f3a65b55cad878420e4a4117420a6a5\classes.dex" />
     </item>
     <item
         is-multidex="true"
-        jar="C:\Users\Inés\.android\build-cache\32720b85a96e779bc742e2ae4d59755ee0599660\output\jars\classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.2"
-        sha1="5cc5ef8347a6bafa14556cbd35230aa9b3431bb0">
-        <dex dex="D:\Apprende\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_173c1ca45ca2aed44a73da13c5fed06033b07029\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="C:\Users\Public\extras\android\m2repository\com\android\support\support-annotations\25.3.0\support-annotations-25.3.0.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.2"
-        sha1="dd84903d2e1af25a6081ef9038ad863cb14ca3a0">
-        <dex dex="D:\Apprende\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-25.3.0_b237e88b3ef822ac0e4d8a94bbf585324aeb818b\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="C:\Users\Inés\.android\build-cache\e87e84a934b7e2c8187bb3d73553496c91d0c3d4\output\jars\classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.2"
-        sha1="4b746ef0fd46acb5aaf3d9ab9a4cec22c28d3211">
-        <dex dex="D:\Apprende\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_2f69a56e21d9f0265c33d380cce48306b8e5501b\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="C:\Users\Inés\.android\build-cache\da3ac7132594482e8bd5cfab034dbf725541b76e\output\jars\classes.jar"
+        jar="C:\Users\Inés\.android\build-cache\e229cf003fab13999dc76dfc47e83fd77717ae24\output\jars\classes.jar"
         jumboMode="true"
         optimize="true"
         revision="25.0.2"
         sha1="518768f3200963fbfec652f498da2c9d39245234">
-        <dex dex="D:\Apprende\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_55af60f7bdd19011763ca10e7ec00b6fe97a8469\classes.dex" />
+        <dex dex="D:\Apprende\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_36e13b6c9a2078fcd39b4a6c78e875e5bb5ff9cc\classes.dex" />
     </item>
     <item
         is-multidex="true"
-        jar="C:\Users\Inés\.android\build-cache\1c70f0b2c538490219f5de6e2e59c70c9b8e24ca\output\jars\classes.jar"
+        jar="C:\Users\Inés\.android\build-cache\6ce03db7b7fe109080290be9397b38da1f721820\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="4b746ef0fd46acb5aaf3d9ab9a4cec22c28d3211">
+        <dex dex="D:\Apprende\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_f558975e7f9019e1b6b7261d330e0728a88c7d17\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Inés\.android\build-cache\b4004d6b4987381c5c97787ccac66c7138a5eb7e\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="D:\Apprende\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_2890dc20fbefb6d2594ce02dc1f31e7fe748b883\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Inés\.android\build-cache\322f350eb70af3aa6fec8c185855e29346f8f435\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="5cc5ef8347a6bafa14556cbd35230aa9b3431bb0">
+        <dex dex="D:\Apprende\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_879f535e013761e98030b3d4a148c7cc0c64b4eb\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Inés\.android\build-cache\be3e3f1dca48f787771f1b0bae2c01bf7830bc98\output\jars\classes.jar"
         jumboMode="true"
         optimize="true"
         revision="25.0.2"
         sha1="93c1199fcb0a34b980e6fff8350daff62e696ec2">
-        <dex dex="D:\Apprende\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_9c170719c6f769b43b7be395e18fae22247db0bb\classes.dex" />
+        <dex dex="D:\Apprende\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_3eedd2194f86b0e0b4c662ab6bd2cba8a8984b61\classes.dex" />
     </item>
     <item
         is-multidex="true"
@@ -61,71 +79,26 @@
         jumboMode="true"
         optimize="true"
         revision="25.0.2"
-        sha1="044ffe467049bfea5661b918a05cb183e7954b52">
+        sha1="84c9a008fcdb2ab0693973a9b3c239c275ab5392">
         <dex dex="D:\Apprende\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_9fb6686be19202f095040af351a59ac38dde09f0\classes.dex" />
     </item>
     <item
         is-multidex="true"
-        jar="C:\Users\Public\extras\m2repository\com\android\support\constraint\constraint-layout-solver\1.0.2\constraint-layout-solver-1.0.2.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.2"
-        sha1="b9cd8fc6bd15cb915735d34535db30ece0c44603">
-        <dex dex="D:\Apprende\app\build\intermediates\transforms\dex\debug\folders\1000\10\constraint-layout-solver-1.0.2_e82656a0ad46fa630611a6f8231f4788d1b4cd80\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="C:\Users\Inés\.android\build-cache\b1c6a18b0a43aa35a0e3e5027dfc273e95bfbd1b\output\jars\classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.2"
-        sha1="44ee06abb66da30f5855e6bf54574e64cdcd982a">
-        <dex dex="D:\Apprende\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_cd52b9e4e920ae1826053385399793e8eed54f01\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="C:\Users\Inés\.android\build-cache\31ee9a8a3f17feb9bba3047ef364eb2713dea979\output\jars\classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.2"
-        sha1="425c7b17887e5c3f8cbdf67ba171bc246f29b42c">
-        <dex dex="D:\Apprende\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_7ac1a34cbb682b4e1936bb1645bc54391cfd777d\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="D:\Apprende\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.2"
-        sha1="510aa6efc159983dfbffa676a0dae37568c0a46f">
-        <dex dex="D:\Apprende\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_88b1af210b67431e34bdec9ef6d9d6146d5fc3f5\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="C:\Users\Inés\.android\build-cache\7da63411855b532e95f826e812934483a0622b3f\output\jars\classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.2"
-        sha1="d6a04527c17597019dad82777c5094a3d60d1c33">
-        <dex dex="D:\Apprende\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_032b4dc06b231eaadcd6294fcc3501d51c295d6a\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="C:\Users\Inés\.android\build-cache\117ca11b0c2bfe755cf90f3981661e6ff93e782c\output\jars\classes.jar"
+        jar="C:\Users\Inés\.android\build-cache\04044fa3df2809d3660bd5e006ecc724a2661107\output\jars\classes.jar"
         jumboMode="true"
         optimize="true"
         revision="25.0.2"
         sha1="93c10d68ab5ea070f15782ae6d3a28d1f1d8f45e">
-        <dex dex="D:\Apprende\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_e1397adc659ccd93ed0b80070c3d375946ece5a4\classes.dex" />
+        <dex dex="D:\Apprende\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_c47c5790ffd6a237eeb3ca1901da9586ad1edf98\classes.dex" />
     </item>
     <item
         is-multidex="true"
-        jar="C:\Users\Inés\.android\build-cache\fa29f3b3963555170158bd59e0986bab03446fa1\output\jars\classes.jar"
+        jar="C:\Users\Inés\.android\build-cache\b48c703495154eb37d37aef4d71ed2d2d2cb0934\output\jars\classes.jar"
         jumboMode="true"
         optimize="true"
         revision="25.0.2"
-        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
-        <dex dex="D:\Apprende\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_00617be492b1afc7c4a0243a376bb3db0228a4ea\classes.dex" />
+        sha1="425c7b17887e5c3f8cbdf67ba171bc246f29b42c">
+        <dex dex="D:\Apprende\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_cfc18dde0af48b8d04168716c04a30c0715eca6c\classes.dex" />
     </item>
 
 </items>
