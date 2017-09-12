@@ -1,12 +1,11 @@
 <resources>
     <string name="app_name">Apprende</string>
-    <string name="action_settings">Opciones</string>
-    <string name="name">Nombre</string>
-    <string name="button_login">Entrar</string>
+    <string name="empezar">EMPEZAR</string>
+    <string name="puntuacion">PUNTUACIÓN</string>
+    <string name="configuración">CONFIGURACIÓN</string>
+    <string name="sobreapp">SOBRE APPRENDE</string>
+    <string name="version">Version 1.0</string>
+    <string name="autor">Apprende es una aplicación Android creada como proyecto para desarrollo de las habilidades de programación Android, con el objetivo de ayudar al aprendizaje de los números. ¡Espero que la disfruten!</string>
+    <string name="infoConfiguracion">Escoge el nivel de dificultad que te guste</string>
 
-    /*Títulos*/
-    <string name="lectoescritura">LECTOESCRITURA</string>
-    <string name="cuentos">CUENTOS</string>
-    <string name="numeros">NÚMEROS</string>
-    <string name="letras">LETRAS</string>
 </resources>

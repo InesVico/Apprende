@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="60dp"
+        android:text="@string/infoConfiguracion"
+        android:textColor="#FFF"
+        android:gravity="center"
+        android:textSize="20sp"
+        android:layout_gravity="center"
+        android:background="@color/colorAccent"/>
+
+    <Switch
+        android:id="@+id/facil"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="20dp"
+        android:layout_marginLeft="10dp"
+        android:layout_marginRight="10dp"
+        android:text="Fácil > Números del 1 al 10" />
+    <Switch
+        android:id="@+id/medio"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="20dp"
+        android:layout_marginLeft="10dp"
+        android:layout_marginRight="10dp"
+        android:text="Medio > Números del 1 al 50"/>
+    <Switch
+        android:id="@+id/dificil"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="20dp"
+        android:layout_marginLeft="10dp"
+        android:layout_marginRight="10dp"
+        android:text="Dificil > Números del 1 al 200"/>
+
+</LinearLayout>

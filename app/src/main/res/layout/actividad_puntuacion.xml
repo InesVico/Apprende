@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:layout_gravity="center"
+    android:background="@drawable/pizarra"
+    android:padding="10dp">
+    <TextView android:id="@+id/totalCorrectas"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:textColor="#fff"
+        android:textSize="50sp"
+        android:paddingBottom="10dp"
+        android:text="MEJOR NOTA"
+        android:textStyle="bold"/>
+    <TextView android:id="@+id/mejorPuntuacion"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:paddingBottom="10sp"
+        android:textColor="#fff"
+        android:text="Mejor Puntuación: "/>
+
+</LinearLayout>

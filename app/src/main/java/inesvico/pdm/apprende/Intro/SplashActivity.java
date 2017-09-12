@@ -1,8 +1,12 @@
-package inesvico.pdm.apprende;
+package inesvico.pdm.apprende.Intro;
 
 import android.content.Intent;
 import android.os.Bundle;
 import android.support.v7.app.AppCompatActivity;
+
+import inesvico.pdm.apprende.Menu;
+import inesvico.pdm.apprende.R;
+import inesvico.pdm.apprende.util.ControlSesion;
 
 public class SplashActivity extends AppCompatActivity{
 
@@ -17,9 +21,9 @@ public class SplashActivity extends AppCompatActivity{
                 }catch (InterruptedException e){
                     e.printStackTrace();
                 }finally {
-                    Intent intent = new Intent(SplashActivity.this, LoginActivity.class);
-                    startActivity(intent);
-                    finish();
+                        Intent intent = new Intent(SplashActivity.this, Menu.class);
+                        startActivity(intent);
+                        finish();
                 }
             }
         };
